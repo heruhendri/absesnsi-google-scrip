@@ -124,6 +124,6 @@ Lisensi kode saya adalah MIT, untuk libraries yang lain mengikuti lisensi masing
 
 ## Donasi  
 Dukung saya 
-- [Traktir kopi](https://sociabuzz.com/fahroniganteng/tribe)
-- [atau Es krim](https://trakteer.id/fahroniganteng/tip) 
+- [Traktir kopi](https://sociabuzz.com/)
+- [atau Es krim](https://trakteer.id/) 
 
