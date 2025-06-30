@@ -10,5 +10,5 @@ Membuat aplikasi android webView dengan react native.
 
 ## Donasi  
 Dukung saya 
-- [Traktir kopi](https://sociabuzz.com/fahroniganteng/tribe)
-- [atau Es krim](https://trakteer.id/fahroniganteng/tip) 
+- [Traktir kopi](https://sociabuzz.com/)
+- [atau Es krim](https://trakteer.id/) 
